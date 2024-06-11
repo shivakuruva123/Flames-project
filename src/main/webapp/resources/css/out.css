@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+#hd {
+	color: green;
+	font-size: 16px;
+	text-align: center;
+	font-size: 90px;
+}
+span{
+color: red;
+	font-size: 16px;
+	text-align: center;
+	font-size: 90px;
+}
+#im{
+	width: 50px;
+	
+}
